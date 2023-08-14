@@ -1,0 +1,38 @@
+.wrapper{
+    display: flex;
+    border-radius: 1%;
+    background-color: wheat;
+    font-size: 300;
+    color:darkred;
+
+}
+body{
+    display: block;
+    background-color: antiquewhite;
+}
+.txtmain{
+    display: block;
+    text-align: center;
+}
+.contenta{
+    display: block;
+}
+.description{
+    display: flex;
+    justify-content: center;
+}
+img{
+    height: 200px;
+    width: 200px;
+    border-radius: 2.5%;
+}
+.descriptiontxt{
+    font-weight: 50;
+    color:brown;
+}
+.redder{
+    color:rgb(255, 16, 16);
+}
+.named{
+    font-weight: 50;
+}
